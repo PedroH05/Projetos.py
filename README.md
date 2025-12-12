@@ -154,10 +154,4 @@ Construir um **Banco Digital completo**, com:
 
 ---
 
-Se quiser, posso adaptar este README para:
 
-* GitHub (com badges e seções profissionais estilo projeto open-source)
-* README técnico para recrutadores
-* README empresarial caso queira transformar o banco em um MVP de startup.
-
-É só pedir!
